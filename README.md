@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **MartinMbae/MartinMbae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,6 +21,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning [Flutter](https://flutter.dev/)
 - 😄 Pronouns: **Dev**
 - 📫 How to reach me: [Email](martinmbae.codemaster@gmail.com)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/iam_martin_mbae.svg?style=social&label=Follow%20%40iam_martin_mbae)](https://twitter.com/iam_martin_mbae)
 
 
 #### 💻 Stack I Work With
@@ -40,39 +39,7 @@ Here are some ideas to get you started:
  #### ⭐  Statistics and Languages
 
  <p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=MartinMbae&count_private=true&show_icons=true&theme=buefy" alt="devded" width="420"/> 
+    <img src="https://github-readme-stats.vercel.app/api?username=MartinMbae&count_private=true&show_icons=true&theme=buefy" alt="MartinMbae" width="420"/> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinMbae&hide=jupyter%20notebook,html,css&langs_count=8&layout=compact&theme=buefy" alt="MartinMbae" height="165" />
  </p>
 
-
-
-<!--
-
-For ICON With Text
-    https://img.shields.io/badge/HereText-FF9800.svg?&style=for-the-badge&logo=HereIconName&logoColor=white
-    
-For Github Stats
-    https://github-readme-stats.vercel.app/api?username=HereUsername&show_icons=true
-
-For Profile View
-    https://komarev.com/ghpvc/?username=HereUsername
-
-For Auto Generate
-    https://rahuldkjain.github.io/gh-profile-readme-generator/
-
-For County Flag ICOn
-    https://www.flaticon.com/
-
-For ICON Idea
-    https://simpleicons.org/
-
--->
-
-<!-- ![Visitor Count](https://profile-counter.glitch.me/devded/count.svg) -->
-
-<!--
-<p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=devded&theme=flat&row=1" alt="devded" />
-</p>
-
--->
