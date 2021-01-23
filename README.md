@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning [Flutter](https://flutter.dev/)
 - 😄 Pronouns: **Dev**
-- 📫 How to reach me: [Email](martinmbae.codemaster@gmail.com)
+- 📫 How to reach me:
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/iam_martin_mbae.svg?style=social&label=Follow%20%40iam_martin_mbae)](https://twitter.com/iam_martin_mbae)
 
 
