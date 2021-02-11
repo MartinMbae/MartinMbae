@@ -41,6 +41,5 @@ Here are some ideas to get you started:
  <p align="center"> 
     <img src="https://github-readme-stats.vercel.app/api?username=MartinMbae&count_private=true&show_icons=true&theme=buefy" alt="MartinMbae" width="420"/> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinMbae&hide=jupyter%20notebook&langs_count=8&layout=compact&theme=buefy" alt="MartinMbae" height="165" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinMbae&layout=compact&theme=buefy" alt="MartinMbae" height="165" />
  </p>
 
