@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MartinMbae" alt="Martin Mbae" /> </p>
 
 
-- 🌱 I’m currently learning [Flutter](https://flutter.dev/)
-- 😄 Pronouns: **Dev**
 - 📫 How to reach me:
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/iam_martin_mbae.svg?style=social&label=Follow%20%40iam_martin_mbae)](https://twitter.com/iam_martin_mbae)
 
