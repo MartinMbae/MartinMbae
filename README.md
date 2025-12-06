@@ -22,18 +22,6 @@ Here are some ideas to get you started:
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/iam_martin_mbae.svg?style=social&label=Follow%20%40iam_martin_mbae)](https://twitter.com/iam_martin_mbae)
 
 
-#### 💻 Stack I Work With
-
-<p align="center">
-<img src="https://img.shields.io/badge/php-8892BF.svg?&style=for-the-badge&logo=php&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/firebase-FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/xampp-FB7A24.svg?&style=for-the-badge&logo=xampp&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/sublime-FF9800.svg?&style=for-the-badge&logo=sublime-text&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Laravel-FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/sqlite-7CBEE4.svg?&style=for-the-badge&logo=sqlite&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/springboot-7CBEE4.svg?&style=for-the-badge&logo=sqlite&logoColor=white" height="25"/>
-</p>
  
  #### ⭐  Statistics and Languages
 
